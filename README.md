@@ -1,6 +1,8 @@
 # Payment-Integration
 Simple donation website using instamojo payment gateway.
 
+### Youtube link: https://youtu.be/xhPAxXDkJDE
+
 ### Card credentials for testing:
 #### Debit card number: 4242 4242 4242 4242
 #### Expiry: any valid future date
